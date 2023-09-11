@@ -44,12 +44,6 @@ namespace CSharpLesson3
             student.consoleWrite();
            
             Console.ReadKey();
-
-
-
-
-
-
         }
     }
 }
